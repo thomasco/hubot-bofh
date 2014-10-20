@@ -46,7 +46,7 @@ excuses = [
   'Please excuse me, I have to circuit an AC line through my head to get this database working.',
   'Yeah, yo mama dresses you funny and you need a mouse to delete files.', 'Support staff hung over, send aspirin and come back LATER.',
   'Someone is standing on the ethernet cable, causing a kink in the cable', 'Windows 95 undocumented "feature"', 'Runt packets',
-  'Password is too complex to decrypt', 'Boss\' kid fucked up the machine', 'Electromagnetic energy loss', 'Budget cuts', 'Mouse chewed through power cable',
+  'Password is too complex to decrypt', 'Electromagnetic energy loss', 'Budget cuts', 'Mouse chewed through power cable',
   'Stale file handle (next time use Tupperware(tm)!)', 'Feature not yet implemented', 'Internet outage', 'Pentium FDIV bug', 'Vendor no longer supports the product',
   'Small animal kamikaze attack on power supplies', 'The vendor put the bug there.', 'SIMM crosstalk.', 'IRQ dropout', 'Collapsed Backbone',
   'Power company testing new voltage spike (creation) equipment', 'operators on strike due to broken coffee machine',
