@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   hubot bofh me - get a random BOFH excuse
+#   hubot excuse - get a random BOFH excuse
 #
 # Notes:
 #   These excuses were pulled from Jeff Ballard's BOFH Server, in turn based on Simon Paul Travaglia's stories
@@ -17,9 +17,9 @@
 #   arsenio
 
 module.exports = (robot) ->
-  robot.respond /bofh me/i, (msg)->
+  robot.respond /excuse/i, (msg)->
     excuse = msg.random excuses
-    msg.send "Your excuse: #{excuse}"
+    msg.send "#{excuse}"
 
 excuses = [
   'clock speed', 'solar flares', 'electromagnetic radiation from satellite debris', 'static from nylon underwear', 'static from plastic slide rules',

@@ -13,4 +13,4 @@ describe 'bofh', ->
     require('../src/bofh')(@robot)
 
   it 'registers a respond listener', ->
-    expect(@robot.respond).to.have.been.calledWith(/bofh me/)
+    expect(@robot.respond).to.have.been.calledWith(/excuse/)
